@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm  Code Singer, a dev that doesn't belong to this era<br><br>- 🔭 I’m working as a fullstack dev<br>- 📚 I'm currently learning Flask<br>- ⚡ In my free time and occupied time, I code away ...</p>
+<p align="left">I'm  Code Singer, a dev that doesn't belong to this era<br><br>- 🔭 I’m working as a fullstack dev<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time and occupied time, I code away ...</p>
 
 ###
 
